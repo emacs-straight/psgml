@@ -1,0 +1,7 @@
+ChangeLog
+*-autoloads.el
+*-pkg.el
+*.elc
+*.tgz
+TAGS
+.#*
